@@ -10,7 +10,7 @@ import Header from './components/Header';
 // Constants
 const OPENSEA_LINK = 'https://testnets.opensea.io/collection/rinkeby-squirrels';
 const MEDIUM_LINK = 'https://medium.com/scrappy-squirrels';
-const contractAddress = "0x7aDBc3497BE70a903c5b17BEf184782dD0A7eFAa";
+const contractAddress = "0x593e5ea4830E33b2fa49daa5151E40270767fC78";
 const abi = contract.abi;
 
 const App = () => {
